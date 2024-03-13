@@ -1,0 +1,9 @@
+﻿  Math.cpp
+C:\Proiecte\OOP\OOPLABS\Lab 3\Problema 1\Problema 1\Math.cpp(15,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Proiecte\OOP\OOPLABS\Lab 3\Problema 1\Problema 1\Math.cpp(19,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Proiecte\OOP\OOPLABS\Lab 3\Problema 1\Problema 1\Math.cpp(31,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Proiecte\OOP\OOPLABS\Lab 3\Problema 1\Problema 1\Math.cpp(35,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Proiecte\OOP\OOPLABS\Lab 3\Problema 1\Problema 1\Math.cpp(60,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Proiecte\OOP\OOPLABS\Lab 3\Problema 1\Problema 1\Math.cpp(61,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Proiecte\OOP\OOPLABS\Lab 3\Problema 1\Problema 1\Math.cpp(62,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Problema 1.vcxproj -> C:\Proiecte\OOP\OOPLABS\Lab 3\Problema 1\Problema 1\x64\Debug\Problema 1.exe

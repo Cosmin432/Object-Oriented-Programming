@@ -51,8 +51,7 @@
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-10T17:28:14.073Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "RelativeToolTip": "comp.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-10T15:54:19.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T15:54:19.164Z"
             },
             {
               "$type": "Document",
@@ -90,8 +88,7 @@
               "RelativeToolTip": "movie.cpp",
               "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-10T15:41:26.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T15:41:26.784Z"
             },
             {
               "$type": "Document",
@@ -103,8 +100,7 @@
               "RelativeToolTip": "MovieSeries.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-10T16:29:19.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T16:29:19.397Z"
             },
             {
               "$type": "Document",
@@ -116,8 +112,7 @@
               "RelativeToolTip": "movie.h",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-10T15:34:42.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T15:34:42.549Z"
             },
             {
               "$type": "Document",
@@ -129,8 +124,7 @@
               "RelativeToolTip": "MovieSeries.cpp",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-10T16:50:45.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T16:50:45.983Z"
             }
           ]
         }
