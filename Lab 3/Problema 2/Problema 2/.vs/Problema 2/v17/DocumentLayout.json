@@ -34,8 +34,7 @@
               "RelativeToolTip": "Canvas.h",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-17T16:37:40.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T16:37:40.026Z"
             },
             {
               "$type": "Document",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "Canvas.cpp",
               "ViewState": "AQIAAIcAAAAAAAAAAAAAAKIAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-17T16:47:34.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T16:47:34.404Z"
             },
             {
               "$type": "Document",
@@ -56,9 +54,9 @@
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Proiecte\\OOP\\OOPLABS\\Lab 3\\Problema 2\\Problema 2\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Proiecte\\OOP\\OOPLABS\\Lab 3\\Problema 2\\Problema 2\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "ToolTip": "C:\\Proiecte\\OOP\\OOPLABS\\Lab 3\\Problema 2\\Problema 2\\main.cpp*",
+              "RelativeToolTip": "main.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-17T17:02:29.516Z",
               "EditorCaption": ""
