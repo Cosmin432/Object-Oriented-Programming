@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proiecte\\OOP\\OOPLABS\\Extra\\Test_1\\Test_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1FF325-8752-4A42-AC91-C21488CC90CC}|Test_1.vcxproj|C:\\Proiecte\\OOP\\OOPLABS\\Extra\\Test_1\\Test_1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E1FF325-8752-4A42-AC91-C21488CC90CC}|Test_1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1FF325-8752-4A42-AC91-C21488CC90CC}|Test_1.vcxproj|C:\\Proiecte\\OOP\\OOPLABS\\Extra\\Test_1\\Test_1\\Phrase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E1FF325-8752-4A42-AC91-C21488CC90CC}|Test_1.vcxproj|solutionrelative:Phrase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1FF325-8752-4A42-AC91-C21488CC90CC}|Test_1.vcxproj|C:\\Proiecte\\OOP\\OOPLABS\\Extra\\Test_1\\Test_1\\Phrase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E1FF325-8752-4A42-AC91-C21488CC90CC}|Test_1.vcxproj|solutionrelative:Phrase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Phrase.cpp",
+              "DocumentMoniker": "C:\\Proiecte\\OOP\\OOPLABS\\Extra\\Test_1\\Test_1\\Phrase.cpp",
+              "RelativeDocumentMoniker": "Phrase.cpp",
+              "ToolTip": "C:\\Proiecte\\OOP\\OOPLABS\\Extra\\Test_1\\Test_1\\Phrase.cpp",
+              "RelativeToolTip": "Phrase.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-22T21:05:46.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Proiecte\\OOP\\OOPLABS\\Extra\\Test_1\\Test_1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Proiecte\\OOP\\OOPLABS\\Extra\\Test_1\\Test_1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-22T20:47:36.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Phrase.h",
+              "DocumentMoniker": "C:\\Proiecte\\OOP\\OOPLABS\\Extra\\Test_1\\Test_1\\Phrase.h",
+              "RelativeDocumentMoniker": "Phrase.h",
+              "ToolTip": "C:\\Proiecte\\OOP\\OOPLABS\\Extra\\Test_1\\Test_1\\Phrase.h",
+              "RelativeToolTip": "Phrase.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-22T16:40:00.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

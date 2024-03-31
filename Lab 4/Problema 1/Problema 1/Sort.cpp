@@ -13,8 +13,7 @@ void Sort::InsertSort(bool ascending)
         int key = v[i];
         int j = i - 1;
 
-        // Mutăm elementele mai mari decât cheia cu o poziție înainte
-        // pentru a face loc pentru inserția cheii
+        
         while (j >= 0 && (ascending ? v[j] > key : v[j] < key))
         {
             v[j + 1] = v[j];
